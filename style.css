@@ -1,0 +1,32 @@
+body {
+    font-family: 'Montserrat', 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: lightgray;
+    margin-right: 320px;
+    margin-left: 320px;
+}
+
+.PhotoTim {
+    border-radius: 50%;
+    border: solid 5px grey;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: gray;
+}
+
+.Intro {
+    background-color: orange;
+}
+
+.Liens {
+    background-color: greenyellow;
+}
+
+.Films {
+    background-color: blue;
+}
