@@ -2,31 +2,115 @@ body {
     font-family: 'Montserrat', 'Open Sans', sans-serif;
     text-align: center;
     background-color: lightgray;
-    margin-right: 320px;
-    margin-left: 320px;
+    margin-right: 340px;
+    margin-left: 340px;
 }
 
 .PhotoTim {
     border-radius: 50%;
     border: solid 5px grey;
+    margin-top: 20px;
 }
 
 h1 {
     color: red;
 }
 
-h2 {
-    color: gray;
+h3 {
+    color:grey;
+}
+.text {
+    color: black;
+    text-align: justify;
+    padding: 10px;
+}
+
+.bouton {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.bouton:hover{
+opacity: 0.7;
 }
 
 .Intro {
-    background-color: orange;
+    margin-top: 30px; 
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 .Liens {
-    background-color: greenyellow;
+    margin-top: 30px; 
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    color: grey;
+}
+ul a{
+    color:grey;
+}
+ul a:hover{
+    opacity: 0.7;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    padding: 0;
+    color: grey;
+}
+a:link{
+    text-decoration: none;
+    color: grey;
+}
+.logo1 {
+   font-size: 20px;
+   text-decoration: none;
+
+
+}
+
+.logo2 {
+    font-size: 20px;
+   color: grey;
+
+
+}
+
+.logo3 {
+    font-size: 20px;
+   color: grey;
+
+}
+
+mark {
+    background-color: grey;
 }
 
 .Films {
-    background-color: blue;
+    margin-top: 30px; 
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.text1 {
+    text-align: justify;
+}
+
+.text2 {
+    text-align: justify;
+}
+
+.text3 {
+    text-align: justify;
 }
