@@ -103,6 +103,9 @@ mark {
     border-radius: 5px;
 }
 
+tr a:hover{
+    opacity: 0.7; 
+}
 .text1 {
     text-align: justify;
 }
